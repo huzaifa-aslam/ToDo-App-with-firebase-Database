@@ -150,6 +150,11 @@ ul li input[type=text] {
     display: none;
 }
 
+
+/* input {
+    display: none;
+} */
+
 ul li.editMode input[type=text] {
     display: block;
 }
